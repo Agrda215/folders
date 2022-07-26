@@ -1,3 +1,5 @@
+import cool;
+
 class Clock {
     constructor(id) {
         this.id = id;
